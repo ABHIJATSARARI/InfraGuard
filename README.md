@@ -10,6 +10,9 @@
 [![React 19](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.8-3178C6?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
 
+### 🌐 [**Live Demo**](https://abhijatsarari.github.io/InfraGuard/) 
+*Note: AI analysis disabled in public demo (API key removed for security). Clone repo to enable full functionality.*
+
 </div>
 
 ---

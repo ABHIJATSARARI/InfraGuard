@@ -74,7 +74,7 @@ export const ReportFlow: React.FC<ReportFlowProps> = ({ onReportSubmit }) => {
       const result = await analyzeInfrastructureImage(image);
       setAnalysis(result);
     } catch (err) {
-      setError("Failed to analyze image. Please try again.");
+      setError("🔒 This is a public demo. AI analysis is disabled for security (API key removed). Clone the repo and add your own Gemini API key to enable full functionality!");
     } finally {
       setIsAnalyzing(false);
     }
