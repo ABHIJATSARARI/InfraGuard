@@ -1,0 +1,8 @@
+{
+  "name": "InfraGuard",
+  "description": "AI-powered crowd-sourced infrastructure reporting platform using Gemini Vision.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
